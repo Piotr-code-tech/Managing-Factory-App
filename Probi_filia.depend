@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1578269210 source:c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\main.cpp
+	<iostream>
+	"Filia.h"
+	"Wyrob.h"
+	"Maszyna.h"
+
+1578268195 c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\filia.h
+	<iostream>
+
+1578269112 source:c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\filia.cpp
+	<iostream>
+	"Filia.h"
+	"Wyrob.h"
+	"Maszyna.h"
+
+1578267015 source:c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\maszyna.cpp
+	<iostream>
+	"Maszyna.h"
+
+1578267015 source:c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\wyrob.cpp
+	<iostream>
+	"Wyrob.h"
+
+1578267015 c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\wyrob.h
+	<iostream>
+
+1578267015 c:\users\piotr\onedrive\pulpit\nowy_probi\probi_filia\maszyna.h
+	<iostream>
+
